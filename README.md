@@ -33,6 +33,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
