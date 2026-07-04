@@ -49,6 +49,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -104,6 +106,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -173,4 +176,5 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
