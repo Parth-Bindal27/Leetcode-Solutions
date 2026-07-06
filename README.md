@@ -59,6 +59,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -154,6 +155,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Greedy
 |  |
 | ------- |
