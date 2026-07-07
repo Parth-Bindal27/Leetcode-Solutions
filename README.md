@@ -57,6 +57,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1470-shuffle-the-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -114,6 +115,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String
 |  |
 | ------- |
