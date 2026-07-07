@@ -30,6 +30,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
