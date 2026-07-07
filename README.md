@@ -60,6 +60,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0520-detect-capital](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
 |  |
