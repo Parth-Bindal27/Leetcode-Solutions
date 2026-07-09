@@ -73,6 +73,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
