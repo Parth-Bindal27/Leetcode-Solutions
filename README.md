@@ -18,6 +18,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
@@ -123,6 +124,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -161,6 +163,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
