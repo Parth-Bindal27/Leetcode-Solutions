@@ -109,6 +109,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -181,6 +182,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting
 |  |
