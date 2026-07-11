@@ -44,6 +44,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
