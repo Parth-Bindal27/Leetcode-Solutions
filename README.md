@@ -51,6 +51,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
