@@ -44,6 +44,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
