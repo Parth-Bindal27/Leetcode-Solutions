@@ -134,6 +134,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -208,4 +209,8 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
