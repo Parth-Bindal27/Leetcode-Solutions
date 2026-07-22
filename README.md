@@ -158,11 +158,13 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Simulation
@@ -215,4 +218,5 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
