@@ -18,6 +18,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0009-palindrome-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
@@ -49,6 +50,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
