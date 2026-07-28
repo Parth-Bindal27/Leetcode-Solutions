@@ -73,6 +73,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2032-two-out-of-three](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -90,6 +91,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2032-two-out-of-three](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -215,6 +217,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0136-single-number) |
+| [2032-two-out-of-three](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Counting Sort
 |  |
 | ------- |
