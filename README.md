@@ -12,6 +12,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -217,6 +219,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2032-two-out-of-three](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Counting Sort
 |  |
