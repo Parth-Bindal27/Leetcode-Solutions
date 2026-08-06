@@ -62,6 +62,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
@@ -143,6 +144,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -238,4 +240,8 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
