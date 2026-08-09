@@ -18,6 +18,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -90,6 +91,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -157,6 +159,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
