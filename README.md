@@ -69,6 +69,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0506-relative-ranks](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -149,6 +150,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0441-arranging-coins](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
