@@ -67,6 +67,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -103,6 +104,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0169-majority-element](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
